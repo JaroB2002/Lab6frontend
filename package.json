@@ -1,5 +1,5 @@
 {
-  "name": "lab6frontend",
+  "name": "socketfront",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.3.8",
-    "vue-router": "^4.2.5"
+    "vue": "^3.3.8"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.5.0",

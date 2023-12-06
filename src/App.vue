@@ -1,15 +1,15 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+  // import Chat
+  import Chat from './components/Chat.vue'
+
 </script>
 
 <template>
   <div>
-    <h1>Scoreboard</h1>
-   
+    <Chat />
   </div>
-  <HelloWorld msg="Vite + Vue" />
 </template>
 
 <style scoped>
-
+  
 </style>
